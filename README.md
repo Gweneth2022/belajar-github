@@ -1,2 +1,2 @@
 # belajar-github
-Tempat latihan dan eksperimen saya dalam menggunakan GitHub. Belajar membuat repo, commit, branch, dan pull request.
+Tempat saya belajar coding dasar dan memahami cara kerja GitHub. Berisi latihan membuat file, commit, serta manajemen repository untuk membangun kebiasaan kerja yang rapi dalam coding.
